@@ -17,6 +17,8 @@ echo "Searching in php files [4]..."
 xargs -d "\n" grep -li 'preg_replace("\/\.\*\/"' < /tmp/av-php.tmp
 echo "Searching in php files [5]..."
 xargs -d "\n" grep -l '$auth_pass' < /tmp/av-php.tmp
+echo "Searching in php files [6]..."
+xargs -d "\n" grep -l '"lzw_decompress(' < /tmp/av-php.tmp
 rm /tmp/av-php.tmp
 
 echo "Searching in htaccess..."
