@@ -21,3 +21,5 @@ rm /tmp/av-php.tmp
 
 echo "Searching in htaccess..."
 find $1 -type f -name .htaccess -exec grep -li "RewriteCond %{HTTP_USER_AGENT} !" {} \;
+
+echo "Finished!"
