@@ -6,3 +6,5 @@ preg_replace("/.*/
 $auth_pass
 MailTo = base64_decode
 find suid files in current dir
+column_title('permission',
+base64_decode('Ly
