@@ -4,4 +4,3 @@ SAPE_base
 SAPE_client
 base64_decode("
 base64_decode('
-$GLOBALS
