@@ -1,0 +1,8 @@
+eval(gzin
+eval(gzun
+eval(base64
+Vvedite hash
+preg_replace("/.*/
+$auth_pass
+MailTo = base64_decode
+find suid files in current dir
