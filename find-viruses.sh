@@ -8,7 +8,7 @@ echo "Searching in php files [001]..."
 find $1 -type f -name *.php | xargs -d "\n" -n1 -P8 grep -liFf "./db/001.txt"
 
 echo "Searching possibilities in php files [101]..."
-find $1 -type f -name *.php | xargs -d "\n" -n1 -P8 grep -liFf "./db/101.txt" | xargs -d "\n" -n1 -P8 grep -lvFf "./db/101x.txt"
+find $1 -type f -name *.php | xargs -d "\n" -n1 -P8 grep -liFf "./db/101.txt" | grep -Fvf "./db/101x.txt"
 
 echo "Searching for bad js files..."
 find $1 -type f -name *.js | xargs -d "\n" -n1 -P8 grep -li "^<?php"
