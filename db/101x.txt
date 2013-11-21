@@ -1,6 +1,11 @@
-lzw_decompress(
-TrustlinkClient
-SAPE_base
-SAPE_client
-base64_decode("
-base64_decode('
+/main/classes/general/update_client.php
+/main/install/wizard/wizard.php
+/main/include.php
+/main/start.php
+/sale/include.php
+/fileman/include.php
+/intranet/include.php
+/bizproc/include.php
+/statistic/include.php
+/activities/bitrix/controllerremoteiblockactivity/controllerremoteiblockactivity.php
+/webasyst/kernel/includes/pear/XML/RPC.php
