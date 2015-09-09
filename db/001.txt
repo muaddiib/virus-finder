@@ -15,3 +15,15 @@ md5($_POST['p'])
 ="base64_decode";return
 fwrite($fp,"\xEF\xBB\xBF"
 */extract($_COOKIE);/*
+$url = $urls[array_rand($urls)];
+#p@$c@#
+"ass"."ert"
+array_unshift($data,119
+(array('\n'
+<?php $_=$_
+Max's File Uploader
+]})))).":"
+<?php ($www= $_POST
+F1l3
+msgheader
+preg_replace('/(.*)/e
