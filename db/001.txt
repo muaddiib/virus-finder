@@ -27,3 +27,4 @@ Max's File Uploader
 F1l3
 msgheader
 preg_replace('/(.*)/e
+str_rot13('riny(
