@@ -38,3 +38,5 @@ foreach ($GLOBALS[$GLOBALS['
 ;}eval($_POST['
 ).""
 '])){if(is_uploaded_file($_
+<?php @array_diff_ukey(@array((
+"; assert($
