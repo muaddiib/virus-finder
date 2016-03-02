@@ -45,3 +45,4 @@ foreach ($GLOBALS[$GLOBALS['
 )));');$
 Bind Shell <span
 foreach(glob("*")
+.""."".""
