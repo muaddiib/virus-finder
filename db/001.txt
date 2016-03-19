@@ -47,3 +47,4 @@ Bind Shell <span
 foreach(glob("*")
 .""."".""
 ;die;}}if(
+put_k_failu
