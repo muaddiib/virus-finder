@@ -49,3 +49,4 @@ foreach(glob("*")
 ;die;}}if(
 put_k_failu
 <?php if (md5($_POST[
+&& (md5($_POST['
