@@ -52,3 +52,4 @@ put_k_failu
 && (md5($_POST['
 )));');@$
 $no_cache_index = false;
+]));}return 
