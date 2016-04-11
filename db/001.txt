@@ -53,3 +53,4 @@ put_k_failu
 )));');@$
 $no_cache_index = false;
 ]));}return 
+']&&$_
