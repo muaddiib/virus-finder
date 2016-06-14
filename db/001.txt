@@ -57,3 +57,4 @@ $no_cache_index = false;
 ; assert($
 =$_COOKIE;
 php extract($_COOKIE
+";return $
