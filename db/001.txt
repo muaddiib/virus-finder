@@ -59,3 +59,4 @@ $no_cache_index = false;
 php extract($_COOKIE
 ";return $
 ');array_filter($
+])) { @copy($
