@@ -58,3 +58,4 @@ $no_cache_index = false;
 =$_COOKIE;
 php extract($_COOKIE
 ";return $
+');array_filter($
