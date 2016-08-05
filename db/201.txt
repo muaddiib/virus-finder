@@ -1,2 +1,3 @@
 includeCounter
 ;document.write("<scr"+"ipt
+.length/3;
