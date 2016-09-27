@@ -64,3 +64,4 @@ php extract($_COOKIE
 ";$GLOBALS['
 ']))@setcookie('
 ";return $
+LoginWall
