@@ -63,3 +63,4 @@ php extract($_COOKIE
 ']!=null&&$
 ";$GLOBALS['
 ']))@setcookie('
+";return $
