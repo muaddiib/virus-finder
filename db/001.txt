@@ -65,3 +65,4 @@ php extract($_COOKIE
 ']))@setcookie('
 ";return $
 LoginWall
+64_decode";return
