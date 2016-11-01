@@ -68,3 +68,4 @@ LoginWall
 64_decode";return
 <script>var a='';
 extract($_POST,
+wp_db.php
