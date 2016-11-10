@@ -69,3 +69,4 @@ LoginWall
 <script>var a='';
 extract($_POST,
 wp_db.php
+$status = $ok ?
