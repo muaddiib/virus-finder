@@ -71,3 +71,4 @@ extract($_POST,
 wp_db.php
 $status = $ok ?
 $SandyKey
+doset();
