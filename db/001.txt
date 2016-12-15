@@ -78,3 +78,4 @@ doset();
 ".$_REQUEST['
 $currentUrl=GetLocationHome();
 libworker.so
+?base64_decode($
