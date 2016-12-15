@@ -79,3 +79,4 @@ doset();
 $currentUrl=GetLocationHome();
 libworker.so
 ?base64_decode($
+uploaded:$uploadfilen"
