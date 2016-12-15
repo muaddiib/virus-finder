@@ -77,3 +77,4 @@ doset();
 00=$O
 ".$_REQUEST['
 $currentUrl=GetLocationHome();
+libworker.so
