@@ -87,3 +87,4 @@ var R='';var s;if(s
 ;if(!$
 ");foreach($
 //php_off
+{global ${
