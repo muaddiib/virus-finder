@@ -88,3 +88,4 @@ var R='';var s;if(s
 ");foreach($
 //php_off
 {global ${
+";eval/*
