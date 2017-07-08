@@ -38,7 +38,7 @@ foreach ($GLOBALS[$GLOBALS['
 ;}eval($_POST['
 ).""
 '])){if(is_uploaded_file($_
-<?php @array_diff_ukey(@array((
+<?php @array
 "; assert($
 :"")."//");
 );'));}else{echo
@@ -98,6 +98,8 @@ var R='';var s;if(s
  ) . $GLOBALS[ '_
 @include "\x
 RandGmail($email);
-<?php @eval($_POST['
+<?php @eval
 ",$_POST['
 define('SHELL_PASSWORD'
+<?php @assert
+
