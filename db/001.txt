@@ -103,3 +103,4 @@ RandGmail($email);
 define('SHELL_PASSWORD'
 <?php @assert
 gzuncompress(base64_decode
+@copy($_FILES['
