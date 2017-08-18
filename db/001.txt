@@ -105,3 +105,4 @@ define('SHELL_PASSWORD'
 gzuncompress(base64_decode
 @copy($_FILES['
 ))][base64
+= create_function ('
